@@ -18,6 +18,6 @@ use-public-rspm: true
 - uses: r-lib/actions/setup-r-dependencies@v2
 with:
 extra-packages: any::rcmdcheck
-  needs: check
-  - name: R CMD check (skip vignettes/manual)
-  run: Rscript -e "rcmdcheck::rcmdcheck(args = c('--no-manual','--ignore-vignettes'), error_on = 'error')"
+needs: check
+- name: R CMD check (skip vignettes/manual)
+run: Rscript -e "rcmdcheck::rcmdcheck(args = c('--no-manual','--ignore-vignettes'), error_on = 'error')"
