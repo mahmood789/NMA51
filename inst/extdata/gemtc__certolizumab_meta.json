@@ -1,0 +1,8 @@
+{
+  "id": "gemtc__certolizumab",
+  "source": "gemtc",
+  "source_url": "CRAN_or_GitHub",
+  "license": "GPL-3",
+  "citation": "van Valkenhoef G, Kuiper J (2025). _gemtc: Network Meta-Analysis Using Bayesian Methods_. doi:10.32614/CRAN.package.gemtc <https://doi.org/10.32614/CRAN.package.gemtc>, R package version 1.1-0, <https://CRAN.R-project.org/package=gemtc>.",
+  "preferred_measure": "OR"
+}

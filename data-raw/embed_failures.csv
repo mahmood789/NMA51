@@ -1,0 +1,65 @@
+"id","reason"
+"gemtc__parkinson","Error in try({ : Normalization failed
+"
+"gemtc__parkinson_diff (parkinson-diff)","Error in get_upstream_raw(id) : 
+  Upstream object not found: gemtc::parkinson_diff (parkinson-diff)
+"
+"gemtc__parkinson_shared (parkinson-shared)","Error in get_upstream_raw(id) : 
+  Upstream object not found: gemtc::parkinson_shared (parkinson-shared)
+"
+"netmeta__Franchini2012","Error in try({ : Normalization failed
+"
+"netmeta__Woods2010","Error in try({ : Normalization failed
+"
+"netmeta__dietaryfat","Error in try({ : Normalization failed
+"
+"netmeta__parkinson","Error in try({ : Normalization failed
+"
+"multinma__atrial_fibrillation","Error in try({ : Normalization failed
+"
+"multinma__blocker","Error in try({ : Normalization failed
+"
+"multinma__diabetes","Error in try({ : Normalization failed
+"
+"multinma__dietary_fat","Error in try({ : Normalization failed
+"
+"multinma__smoking","Error in try({ : Normalization failed
+"
+"multinma__statins","Error in try({ : Normalization failed
+"
+"multinma__thrombolytics","Error in try({ : Normalization failed
+"
+"multinma__bcg_vaccine","Error in try({ : Normalization failed
+"
+"multinma__hta_psoriasis","Error in try({ : Normalization failed
+"
+"multinma__parkinsons","Error in try({ : Normalization failed
+"
+"multinma__plaque_psoriasis_agd","Error in try({ : Normalization failed
+"
+"multinma__plaque_psoriasis_ipd","Error in try({ : Normalization failed
+"
+"MBNMAdose__triptans","Error in try({ : Normalization failed
+"
+"MBNMAdose__psoriasis100","Error in try({ : Normalization failed
+"
+"MBNMAdose__psoriasis75","Error in try({ : Normalization failed
+"
+"MBNMAdose__psoriasis90","Error in try({ : Normalization failed
+"
+"pcnetmeta__diabetes","Error in try({ : Normalization failed
+"
+"pcnetmeta__dietaryfat","Error in try({ : Normalization failed
+"
+"pcnetmeta__parkinson","Error in try({ : Normalization failed
+"
+"pcnetmeta__smoke","Error in try({ : Normalization failed
+"
+"bnma__parkinsons_contrast","Error in try({ : Normalization failed
+"
+"BUGSnet__afib","Error in try({ : Normalization failed
+"
+"BUGSnet__parkinsons_arm","Error in try({ : Normalization failed
+"
+"BUGSnet__thrombolytic","Error in try({ : Normalization failed
+"

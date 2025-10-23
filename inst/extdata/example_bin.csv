@@ -1,0 +1,5 @@
+"study","treatment","r","n","measure","outcome"
+"s1","A",12,120,"OR","MACE"
+"s1","B",20,118,"OR","MACE"
+"s2","A",8,95,"OR","MACE"
+"s2","C",15,100,"OR","MACE"

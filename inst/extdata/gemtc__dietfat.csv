@@ -1,0 +1,21 @@
+"study","treatment","r","n","measure","outcome"
+"DART","control",113,1015,"OR",NA
+"DART","diet",111,1018,"OR",NA
+"London Corn/Olive","control",1,26,"OR",NA
+"London Corn/Olive","diet",8,54,"OR",NA
+"London Low Fat","control",24,129,"OR",NA
+"London Low Fat","diet",20,123,"OR",NA
+"Minnesota Coronary","control",248,4516,"OR",NA
+"Minnesota Coronary","diet",269,4516,"OR",NA
+"MRC Soya","control",31,194,"OR",NA
+"MRC Soya","diet",28,199,"OR",NA
+"Oslo Diet-Heart","control",65,206,"OR",NA
+"Oslo Diet-Heart","diet",48,206,"OR",NA
+"STARS","control",3,30,"OR",NA
+"STARS","diet",1,30,"OR",NA
+"Sydney Diet-Heart","control",28,237,"OR",NA
+"Sydney Diet-Heart","diet",39,221,"OR",NA
+"Veterans Administration","control",177,422,"OR",NA
+"Veterans Administration","diet",174,424,"OR",NA
+"Veterans Diet & Skin CA","control",2,67,"OR",NA
+"Veterans Diet & Skin CA","diet",1,66,"OR",NA

@@ -1,0 +1,8 @@
+{
+  "id": "example_bin",
+  "source": "local",
+  "source_url": "https://example.org",
+  "license": "CC-BY-4.0",
+  "citation": "Example et al. (2020)",
+  "preferred_measure": "OR"
+}

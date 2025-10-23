@@ -1,0 +1,249 @@
+"study","treat1","treat2","TE","seTE"
+"1","1","Waitlist",NA,NA
+"1","6","Self-help internet no support",-0.916254782,0.318268341183976
+"2","1","Waitlist",NA,NA
+"2","7","Self-help book with support",-0.956381011,0.389667770029804
+"3","1","Waitlist",NA,NA
+"3","8","Self-help internet with support",-0.768207456,0.125194780242628
+"4","1","Waitlist",NA,NA
+"4","8","Self-help internet with support",-0.748858081,0.251091772067505
+"5","1","Waitlist",NA,NA
+"5","8","Self-help internet with support",-1.248430575,0.244291708823693
+"6","1","Waitlist",NA,NA
+"6","8","Self-help internet with support",-0.944180672,0.189073120776064
+"7","1","Waitlist",NA,NA
+"7","8","Self-help internet with support",-0.944180672,0.189073120776064
+"8","1","Waitlist",NA,NA
+"8","21","Clonazapam",-0.857090034,0.384607871734316
+"9","1","Waitlist",NA,NA
+"9","24","Exposure in vivo",-0.629537388,0.224740888580605
+"10","1","Waitlist",NA,NA
+"10","30","CBT group",-1.88839083,0.280449433944874
+"11","1","Waitlist",NA,NA
+"11","31","CBT group Heimberg",-0.905684912,0.351633670173947
+"12","1","Waitlist",NA,NA
+"12","34","CBT individual Heimberg",-0.454392997,0.231508626189177
+"13","1","Waitlist",NA,NA
+"13","34","CBT individual Heimberg",-1.696063053,0.333875503743536
+"14","2","Pill placebo",NA,NA
+"14","9","Pregabalin",-0.500842425,0.157867710441369
+"15","2","Pill placebo",NA,NA
+"15","9","Pregabalin",-0.196526106,0.177971275772244
+"16","2","Pill placebo",NA,NA
+"16","10","Levetiracetam",-0.39883358,0.446045647888195
+"17","2","Pill placebo",NA,NA
+"17","11","Gabapentin",-0.49451794,0.211858809115883
+"18","2","Pill placebo",NA,NA
+"18","12","Mirtazapine",-0.333079937,0.233864990967011
+"19","2","Pill placebo",NA,NA
+"19","13","Sertraline",-0.371851418,0.087869932286306
+"20","2","Pill placebo",NA,NA
+"20","13","Sertraline",-0.909000334,0.127441484611566
+"21","2","Pill placebo",NA,NA
+"21","14","Citalopram",-0.373082997,0.348380619437993
+"22","2","Pill placebo",NA,NA
+"22","15","Escitalopram",-0.252778383,0.0968908199985943
+"23","2","Pill placebo",NA,NA
+"23","16","Fluoxetine",0.001707907,0.22481639619921
+"24","2","Pill placebo",NA,NA
+"24","17","Fluvoxamine",-0.2323352,0.130086824851712
+"25","2","Pill placebo",NA,NA
+"25","17","Fluvoxamine",-0.601887082,0.117373766234197
+"26","2","Pill placebo",NA,NA
+"26","17","Fluvoxamine",-0.54967001,0.190402951657793
+"27","2","Pill placebo",NA,NA
+"27","17","Fluvoxamine",-0.848388534,0.38398930844491
+"28","2","Pill placebo",NA,NA
+"28","17","Fluvoxamine",-0.420395943,0.106638529622271
+"29","2","Pill placebo",NA,NA
+"29","18","Paroxetine",-1.083824848,0.197679796640931
+"30","2","Pill placebo",NA,NA
+"30","18","Paroxetine",-0.461623721,0.103663696634839
+"31","2","Pill placebo",NA,NA
+"31","18","Paroxetine",-0.625978711,0.0925257801912526
+"32","2","Pill placebo",NA,NA
+"32","18","Paroxetine",-0.887545209,0.139359409441917
+"33","2","Pill placebo",NA,NA
+"33","18","Paroxetine",-0.220551182,0.236291779374569
+"34","2","Pill placebo",NA,NA
+"34","19","Venlafaxine",-0.32587763,0.110718941468928
+"35","2","Pill placebo",NA,NA
+"35","19","Venlafaxine",-0.258515124,0.112657689484562
+"36","2","Pill placebo",NA,NA
+"36","21","Clonazapam",-0.910791901,0.210809966557561
+"37","2","Pill placebo",NA,NA
+"37","22","Moclobemide",-0.372848945,0.0928223518340276
+"38","2","Pill placebo",NA,NA
+"38","22","Moclobemide",-0.338845498,0.206636981201333
+"39","2","Pill placebo",NA,NA
+"39","22","Moclobemide",-0.193058684,0.103038618973664
+"40","2","Pill placebo",NA,NA
+"40","23","Phenelzine",-0.328358805,0.246178894302497
+"41","3","Psychological placebo",NA,NA
+"41","29","Psychodynamic psychotherapy",0.011363475,0.326679852454969
+"42","3","Psychological placebo",NA,NA
+"42","30","CBT group",0.407882594,0.270168514079639
+"43","3","Psychological placebo",NA,NA
+"43","31","CBT group Heimberg",-0.201290226,0.274976760836257
+"44","4","Exercise promotion",NA,NA
+"44","27","Mindfulness",-0.154771675,0.280352264124975
+"45","6","Self-help internet no support",NA,NA
+"45","6","Self-help internet no support",0.151445806,0.174264227539676
+"46","6","Self-help internet no support",NA,NA
+"46","8","Self-help internet with support",-0.275989655,0.142443501080253
+"47","8","Self-help internet with support",NA,NA
+"47","8","Self-help internet with support",0.007661103,0.199877822681757
+"48","8","Self-help internet with support",NA,NA
+"48","30","CBT group",-0.098454638,0.309257507588741
+"49","8","Self-help internet with support",NA,NA
+"49","31","CBT group Heimberg",0.230010405,0.156615085480295
+"50","18","Paroxetine",NA,NA
+"50","39","Paroxetine + Clonazapam",-0.431874592,0.329286976663214
+"51","21","Clonazapam",NA,NA
+"51","31","CBT group Heimberg",0.106403119,0.253498248514659
+"52","21","Clonazapam",NA,NA
+"52","38","Psychodynamic + Clonazepam",-0.107228929,0.261502724651198
+"53","24","Exposure in vivo",NA,NA
+"53","25","Social skills training",-0.01265096,0.225345368268354
+"54","24","Exposure in vivo",NA,NA
+"54","30","CBT group",-0.194964613,0.344805964275562
+"55","24","Exposure in vivo",NA,NA
+"55","30","CBT group",0.140740584,0.262511734975791
+"56","24","Exposure in vivo",NA,NA
+"56","30","CBT group",0.011795272,0.298953024738001
+"57","26","Supportive therapy",NA,NA
+"57","28","Interpersonal psychotherapy",-0.084274923,0.242099021063696
+"58","26","Supportive therapy",NA,NA
+"58","35","CBT individual",-1.150454656,0.257574760021241
+"59","27","Mindfulness",NA,NA
+"59","30","CBT group",0.012859613,0.334616247364051
+"60","27","Mindfulness",NA,NA
+"60","31","CBT group Heimberg",-0.765466864,0.239923112684043
+"61","30","CBT group",NA,NA
+"61","30","CBT group",0.005074189,0.232738118923394
+"62","30","CBT group",NA,NA
+"62","30","CBT group",-0.588724389,0.311804791496218
+"63","30","CBT group",NA,NA
+"63","33","Cognitive therapy shortened sessions",-0.19893648,0.207258963617982
+"64","31","CBT group Heimberg",NA,NA
+"64","31","CBT group Heimberg",0.197864406,0.224761282252972
+"65","35","CBT individual",NA,NA
+"65","35","CBT individual",0.831595534,0.307296516413708
+"66","35","CBT individual",NA,NA
+"66","35","CBT individual",-0.299175273,0.215341726100633
+"67","1","Waitlist",NA,0.267261241110641
+"67","5","Self-help book no support",-0.527617361,0.364308733082258
+"67","7","Self-help book with support",-0.58287419,0.349954034124483
+"68","1","Waitlist",NA,0.158113883008419
+"68","5","Self-help book no support",-0.667164493,0.197536166308856
+"68","8","Self-help internet with support",-0.625564669,0.197253849138616
+"69","1","Waitlist",NA,0.169030852213435
+"69","6","Self-help internet no support",-0.41624354,0.226091917148756
+"69","8","Self-help internet with support",-0.990528783,0.229730137335092
+"70","1","Waitlist",NA,0.408248290872111
+"70","14","Citalopram",-0.928529824,0.521983949944823
+"70","30","CBT group",-1.500297716,0.543247232850753
+"71","1","Waitlist",NA,0.353553390593274
+"71","24","Exposure in vivo",-0.552785188,0.406820750454054
+"71","30","CBT group",-0.644021222,0.407759231655152
+"72","1","Waitlist",NA,0.316227766016838
+"72","24","Exposure in vivo",-1.500560512,0.408756679456128
+"72","31","CBT group Heimberg",-1.06165359,0.375882469663058
+"73","1","Waitlist",NA,0.223606797749979
+"73","24","Exposure in vivo",-0.943374346,0.267013634483335
+"73","36","Cognitive therapy",-1.854451128,0.280167751534683
+"74","1","Waitlist",NA,0.156173762200954
+"74","28","Interpersonal psychotherapy",-0.442200291,0.204950198828886
+"74","33","Cognitive therapy shortened sessions",-0.802896592,0.207750403128369
+"75","1","Waitlist",NA,0.128564870785141
+"75","29","Psychodynamic psychotherapy",-0.866715182,0.14108360996232
+"75","33","Cognitive therapy shortened sessions",-1.287505915,0.142338248549011
+"76","1","Waitlist",NA,0.25
+"76","29","Psychodynamic psychotherapy",0.159264984,0.324228697064279
+"76","35","CBT individual",-0.059724369,0.338748747599161
+"77","1","Waitlist",NA,0.218217891108864
+"77","30","CBT group",0.032634329,0.265776291267675
+"77","33","Cognitive therapy shortened sessions",-0.277730518,0.266400283408258
+"78","1","Waitlist",NA,0.242535624187458
+"78","31","CBT group Heimberg",-1.194350972,0.325237376388385
+"78","31","CBT group Heimberg",-0.653248298,0.311391568607758
+"79","1","Waitlist",NA,0.258198890392658
+"79","35","CBT individual",-1.166047884,0.32372313942627
+"79","35","CBT individual",-1.289116537,0.336414914948788
+"80","1","Waitlist",NA,0.19245008963365
+"80","36","Cognitive therapy",-1.627374352,0.238626253794506
+"80","36","Cognitive therapy",-1.905824008,0.244898915881635
+"81","2","Pill placebo",NA,0.112866531797517
+"81","9","Pregabalin",-0.041375733,0.149284694459948
+"81","18","Paroxetine",-0.469659542,0.147099354179412
+"82","2","Pill placebo",NA,0.223606797749979
+"82","16","Fluoxetine",-0.131405279,0.267082756837651
+"82","36","Cognitive therapy",-0.738637388,0.268389794887958
+"83","2","Pill placebo",NA,0.0877058036848189
+"83","18","Paroxetine",-0.359611453,0.112580047077624
+"83","18","Paroxetine",-0.322238341,0.112266504354594
+"84","2","Pill placebo",NA,0.104257205985965
+"84","18","Paroxetine",-0.326377659,0.130391426098498
+"84","18","Paroxetine",-0.279702851,0.130679152889816
+"85","2","Pill placebo",NA,0.0870388304149361
+"85","18","Paroxetine",-0.563787661,0.113633146572644
+"85","19","Venlafaxine",-0.624386017,0.113661550226979
+"86","2","Pill placebo",NA,0.0833333306666666
+"86","18","Paroxetine",-0.736713227,0.110338057804186
+"86","19","Venlafaxine",-0.559009819,0.110175378374662
+"87","2","Pill placebo",NA,0.0890870809938231
+"87","19","Venlafaxine",-0.671890803,0.129959689904216
+"87","19","Venlafaxine",-0.648880844,0.129799649460235
+"88","2","Pill placebo",NA,0.196116133961487
+"88","22","Moclobemide",-0.950673823,0.242622154800422
+"88","23","Phenelzine",-1.526946309,0.250335337098061
+"89","2","Pill placebo",NA,0.22941573398527
+"89","22","Moclobemide",0.356069704,0.277985670494002
+"89","35","CBT individual",-0.344538088,0.277908914934372
+"90","3","Psychological placebo",NA,0.144337566142706
+"90","30","CBT group",-0.169175829,0.181436256023982
+"90","32","CBT group Enhanced",-0.507832223,0.175078805113583
+"91","6","Self-help internet no support",NA,0.19245008963365
+"91","8","Self-help internet with support",-0.176933857,0.237546136571404
+"91","8","Self-help internet with support",-0.085270418,0.237385250173637
+"92","22","Moclobemide",NA,0.223606797749979
+"92","35","CBT individual",-0.84533824,0.279309294510584
+"92","40","CBT group + Moclobemide",-0.681401585,0.282463383467663
+"93","1","Waitlist",NA,0.138675048224257
+"93","5","Self-help book no support",-0.397452443,0.175211666278248
+"93","30","CBT group",-0.522931701,0.173509063163859
+"93","30","CBT group",-0.685473073,0.175635685440061
+"94","2","Pill placebo",NA,0.104257205985965
+"94","2","Pill placebo",-0.125405929,0.126345716191725
+"94","13","Sertraline",-0.295252046,0.125925632815563
+"94","13","Sertraline",-0.397862701,0.125206589283472
+"95","2","Pill placebo",NA,0.19245008963365
+"95","3","Psychological placebo",-0.257542989,0.230000830433283
+"95","23","Phenelzine",-1.403204864,0.236230747363674
+"95","31","CBT group Heimberg",-0.311151705,0.225727698787721
+"96","2","Pill placebo",NA,0.258198890392658
+"96","20","Alprazolam",-0.117132121,0.348888525176739
+"96","23","Phenelzine",-0.608018764,0.344067198378456
+"96","31","CBT group Heimberg",-0.118884285,0.319453547483824
+"97","2","Pill placebo",NA,0.19245008963365
+"97","23","Phenelzine",-0.521620472,0.217926205399901
+"97","31","CBT group Heimberg",-0.253229668,0.21865451287362
+"97","41","CBT group + Phenelzine",-1.282438417,0.226823100675394
+"98","3","Psychological placebo",NA,0.27735009825129
+"98","24","Exposure in vivo",-0.494649276,0.389148280222334
+"98","24","Exposure in vivo",0.069457394,0.379410168551134
+"98","24","Exposure in vivo",-0.33273846,0.380661504489225
+"99","5","Self-help book no support",NA,0.185695339198376
+"99","7","Self-help book with support",0.136746976,0.231396756675628
+"99","8","Self-help internet with support",0.080320801,0.22930156780973
+"99","8","Self-help internet with support",0.411722844,0.230030889230121
+"100","2","Pill placebo",NA,0.0778498940269028
+"100","15","Escitalopram",-0.304880876,0.100315402605981
+"100","15","Escitalopram",-0.569978222,0.100891937239801
+"100","15","Escitalopram",-0.386028735,0.100067886956805
+"100","18","Paroxetine",-0.449313527,0.100017028550142
+"101","2","Pill placebo",NA,0.132163720437948
+"101","16","Fluoxetine",-0.671526072,0.161669010635929
+"101","30","CBT group",-0.497003859,0.158748199989795
+"101","30","CBT group",-0.614339904,0.159819238516519
+"101","37","CBT group + Fluoxetine",-0.531314484,0.159305928954324

@@ -1,0 +1,16 @@
+"study","treatment","y","sd"
+"1","Placebo",-1.22,0.504
+"1","Ropinirole",-1.53,0.439
+"2","Placebo",-0.7,0.282
+"2","Pramipexole",-2.4,0.258
+"3","Placebo",-0.3,0.505
+"3","Pramipexole",-2.6,0.51
+"3","Bromocriptine",-1.2,0.478
+"4","Ropinirole",-0.24,0.265
+"4","Bromocriptine",-0.59,0.354
+"5","Ropinirole",-0.73,0.335
+"5","Bromocriptine",-0.18,0.442
+"6","Bromocriptine",-2.2,0.197
+"6","Cabergoline",-2.5,0.19
+"7","Bromocriptine",-1.8,0.2
+"7","Cabergoline",-2.1,0.25

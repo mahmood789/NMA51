@@ -1,0 +1,49 @@
+"study","treatment","r","n"
+"MRC-E","Diuretic",43,1081
+"MRC-E","Placebo",34,2213
+"MRC-E","blocker",37,1102
+"EWPH","Diuretic",29,416
+"EWPH","Placebo",20,424
+"SHEP","Diuretic",140,1631
+"SHEP","Placebo",118,1578
+"HAPPHY","Diuretic",75,3272
+"HAPPHY","blocker",86,3297
+"ALLHAT","Diuretic",302,6766
+"ALLHAT","CCB",154,3954
+"ALLHAT","ACE inhibitor",119,4096
+"INSIGHT","Diuretic",176,2511
+"INSIGHT","CCB",136,2508
+"ANBP-2","Diuretic",200,2826
+"ANBP-2","ACE inhibitor",138,2800
+"ALPINE","Diuretic",8,196
+"ALPINE","ARB",1,196
+"FEVER","Placebo",154,4870
+"FEVER","CCB",177,4841
+"DREAM","Placebo",489,2646
+"DREAM","ACE inhibitor",449,2623
+"HOPE","Placebo",155,2883
+"HOPE","ACE inhibitor",102,2837
+"PEACE","Placebo",399,3472
+"PEACE","ACE inhibitor",335,3432
+"CHARM","Placebo",202,2721
+"CHARM","ARB",163,2715
+"SCOPE","Placebo",115,2175
+"SCOPE","ARB",93,2167
+"AASK","blocker",70,405
+"AASK","CCB",32,202
+"AASK","ACE inhibitor",45,410
+"STOP-2","blocker",97,1960
+"STOP-2","CCB",95,1965
+"STOP-2","ACE inhibitor",93,1970
+"ASCOT","blocker",799,7040
+"ASCOT","CCB",567,7072
+"NORDIL","blocker",251,5059
+"NORDIL","CCB",216,5095
+"INVEST","blocker",665,8078
+"INVEST","CCB",569,8098
+"CAPPP","blocker",380,5230
+"CAPPP","ACE inhibitor",337,5183
+"LIFE","blocker",320,3979
+"LIFE","ARB",242,4020
+"VALUE","CCB",845,5074
+"VALUE","ARB",690,5087
